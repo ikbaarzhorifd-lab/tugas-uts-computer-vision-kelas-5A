@@ -1,11 +1,11 @@
 # UTS Computer Vision
 
 **Nama:** Ikbaar Zhorif D  
-**NIM:** 1234567890
+**NIM:** 43050230002
 
 ## Deskripsi Karakter
-Karakter bernama **ROBO-X**, yaitu robot sederhana dengan kepala, antena, dan tubuh persegi.  
-Dibuat menggunakan fungsi OpenCV seperti `cv2.rectangle()`, `cv2.circle()`, `cv2.line()`, dan `cv2.putText()`.
+Karakter bernama ROBOT, yaitu robot sederhana dengan kepala, antena, dan tubuh persegi.
+Dibuat menggunakan fungsi OpenCV seperti cv2.rectangle(), cv2.circle(), cv2.line(), dan cv2.putText().
 
 ## Transformasi yang Digunakan
 1. Translasi (geser posisi 50, 30)
